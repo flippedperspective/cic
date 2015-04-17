@@ -1,0 +1,9 @@
+# Visual Studio
+.vs/
+artifacts/
+*.sln
+*.kproj*
+src/*/wwwroot/bin
+
+# For the time being we don't want to delete Project_Readme.html because it's a useful reference
+src/cic/Project_Readme.html
